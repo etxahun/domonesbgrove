@@ -1,0 +1,1 @@
+[{"device": "raspberrypi", "timestamp": "09:15:19", "humidityvalue": 70.8, "tempvalue": 23.0, "location": "etxea"}]
